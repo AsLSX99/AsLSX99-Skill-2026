@@ -7,7 +7,7 @@
 ![Skill](https://img.shields.io/badge/format-Agent%20Skill-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-作者：鲁上星（Shangxing Lu）
+作者：AsLSX99
 
 ## 这是什么
 
@@ -139,4 +139,4 @@ Skill 会依次执行八步，产出拍摄方案；把 `## 5. 逐镜提示词` �
 
 ## 作者
 
-鲁上星（Shangxing Lu）· GitHub: [AsLSX99](https://github.com/AsLSX99)
+GitHub: [AsLSX99](https://github.com/AsLSX99)
